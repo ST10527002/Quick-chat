@@ -12,7 +12,7 @@ import java.util.Scanner;
 class Login {
 
     String StoreUsername;
-    String StorePassword;
+    String Password;
     String Storecellphonenumber;
     String StoreregisterUser;
     String Storefirstname;
