@@ -15,7 +15,7 @@ class Login {
     String StorePassword;
     String Storecellphonenumber;
     String registerUser;
-    String firstname;
+    String Storefirstname;
     String lastname;
 
     boolean checkusername(String Username) {
