@@ -14,7 +14,7 @@ class Login {
     String StoreUsername;
     String StorePassword;
     String Storecellphonenumber;
-    String registerUser;
+    String StoreregisterUser;
     String Storefirstname;
     String Storelastname;
 
