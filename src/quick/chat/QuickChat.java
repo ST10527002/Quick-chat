@@ -37,7 +37,7 @@ class Login {
         boolean hasDigit = false;
         boolean hasSpecialChar = false;
 
-        String specialChars = "!@#$%^&*()";
+        String specialChars = "!@#$%^&*()'";
         char ch;
 
         for (int i = 0; i < password.length(); i++) {
